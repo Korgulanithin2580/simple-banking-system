@@ -1,0 +1,55 @@
+{
+    "436235": {
+        "name": "nithin",
+        "password": "2025",
+        "balance": 0,
+        "transactions": []
+    },
+    "948366": {
+        "name": "vineeth",
+        "password": "2026",
+        "balance": 0,
+        "transactions": []
+    },
+    "760193": {
+        "name": "vin",
+        "password": "2000",
+        "balance": 2000.0,
+        "transactions": [
+            {
+                "transaction_type": "DEPOSIT",
+                "amount": 2000.0,
+                "description": "Money added to account"
+            }
+        ]
+    },
+    "856907": {
+        "name": "nithin",
+        "password": "2580",
+        "balance": 2500.0,
+        "transactions": [
+            {
+                "transaction_type": "RECEIVED",
+                "amount": 2500.0,
+                "description": "Received from 567043"
+            }
+        ]
+    },
+    "567043": {
+        "name": "raj kumar",
+        "password": "8520",
+        "balance": 47500.0,
+        "transactions": [
+            {
+                "transaction_type": "DEPOSIT",
+                "amount": 50000.0,
+                "description": "Money added to account"
+            },
+            {
+                "transaction_type": "TRANSFER",
+                "amount": 2500.0,
+                "description": "Transfer to 856907"
+            }
+        ]
+    }
+}
